@@ -43,5 +43,5 @@ xcopy /I /E /Y .\Files\Templates\%1 "%UserProfile%\Documents\Visual Studio 2015\
 exit /b
 
 :copy_item_template_vb
-xcopy /I /E /Y .\Files\Templates\%1 "%UserProfile%\Documents\Visual Studio 2015\Templates\ItemTemplates\Visual Basic\%1"
+xcopy /I /E /Y .\Files\Templates\%1 "%UserProfile%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual Basic\%1"
 exit /b
